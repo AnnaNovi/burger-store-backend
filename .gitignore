@@ -1,0 +1,8 @@
+# Folders
+/node_modules
+/database
+/build
+
+# Files
+package-lock.json
+.env
